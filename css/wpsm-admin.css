@@ -1,0 +1,8 @@
+.wpsm-admin .row {
+    display: flex;
+    flex-flow: row wrap;
+    padding: .5vw;
+}
+.wpsm-admin .row .column.flex1 {
+    flex: 1;
+}

@@ -1,0 +1,678 @@
+# Copyright (C) 2022 WordPress Popup Plugin
+# This file is distributed under the same license as the WordPress Popup Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Safeguard Media\n"
+"Report-Msgid-Bugs-To: https://safeguard.media/\n"
+"POT-Creation-Date: 2024-10-15 20:36+0800\n"
+"PO-Revision-Date: 2024-10-15 20:36+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: wp-safeguard-media.php:60
+msgid "Liste des Fichiers"
+msgstr ""
+
+#: wp-safeguard-media.php:61
+msgid "Settings"
+msgstr "Paramètres"
+
+#: wp-safeguard-media.php:214
+msgid "Type d'appareil non autorisé par ce site Web!"
+msgstr ""
+
+#: wp-safeguard-media.php:353
+msgid "SafeGuard Media"
+msgstr ""
+
+#: wp-safeguard-media.php:497
+msgid "Fichiers Autorisés"
+msgstr ""
+
+#: inc/admin-page-list.php:27 inc/admin-page-list.php:68
+#: inc/ajax-server.php:49
+msgid "Désolé, uniquement en jpg, jpeg, png, gif, mp4, doc, docx, pdf sont autorisés."
+msgstr ""
+
+#: inc/admin-page-list.php:33 inc/admin-page-list.php:106
+#: inc/ajax-server.php:55
+msgid "Le compte n'existe pas sur le serveur SafeGuard Media."
+msgstr ""
+
+#: inc/admin-page-list.php:39 inc/admin-page-list.php:112
+#: inc/ajax-server.php:61
+msgid "Une erreur s'est produite lors de la publication de votre fichier sur le serveur SafeGuard Media."
+msgstr ""
+
+#: inc/admin-page-list.php:46 inc/admin-page-list.php:119
+#, php-format
+msgid "Le fichier %1$s a été téléchargé. Cliquez sur <a href=\"%2$s/wp-admin/admin.php?page=wpsafeguard_list\">ici</a> pour mettre à jour la liste ci-dessous."
+msgstr ""
+
+#: inc/admin-page-list.php:67
+msgid "Veuillez télécharger le fichier pour continuer."
+msgstr ""
+
+#: inc/admin-page-list.php:69
+msgid "Désolé, votre fichier n'a pas été téléchargé."
+msgstr ""
+
+#: inc/admin-page-list.php:151
+msgid "Aucun fichier n'a encore été téléchargé."
+msgstr ""
+
+#: inc/admin-page-list.php:162
+msgid "Liste des fichiers multimédias"
+msgstr ""
+
+#: inc/admin-page-list.php:164
+msgid "Télécharger uniquement jpg,jpeg,gif,png,mp4,doc,docx,pdf"
+msgstr ""
+
+#: inc/admin-page-list.php:172
+msgid "Télécharge"
+msgstr ""
+
+#: inc/admin-page-list.php:176
+msgid "Fournir un lien vers un média externe"
+msgstr ""
+
+#: inc/admin-page-list.php:182 inc/admin-page-settings.php:457
+msgid "Soumettre"
+msgstr ""
+
+#: inc/admin-page-list.php:187
+msgid "Fichiers Multimédias Enregistrés"
+msgstr ""
+
+#: inc/admin-page-list.php:192 inc/admin-page-list.php:205
+msgid "Lien Multimédia"
+msgstr ""
+
+#: inc/admin-page-list.php:193 inc/admin-page-list.php:206
+msgid "Nom de fichier"
+msgstr ""
+
+#: inc/admin-page-list.php:194 inc/admin-page-list.php:207
+msgid "Code court"
+msgstr ""
+
+#: inc/admin-page-list.php:195 inc/admin-page-list.php:208
+msgid "Dernière mise à jour"
+msgstr ""
+
+#: inc/admin-page-settings.php:55
+msgid "Vous avez déjà un compte. Veuillez saisir votre clé API ci-dessous."
+msgstr ""
+
+#: inc/admin-page-settings.php:61
+msgid "Vous êtes maintenant inscrit. Veuillez mettre à jour vos paramètres ci-dessous."
+msgstr ""
+
+#: inc/admin-page-settings.php:66
+msgid "L'inscription a échoué, veuillez vérifier les informations que vous avez saisies."
+msgstr ""
+
+#: inc/admin-page-settings.php:71
+msgid "L'inscription a échoué, il y a un problème avec le plug-in ou le serveur SafeGuard Media. Veuillez contacter un administrateur si le problème persiste."
+msgstr ""
+
+#: inc/admin-page-settings.php:231
+msgid "Paramètres enregistrés"
+msgstr ""
+
+#: inc/admin-page-settings.php:235 inc/admin-page-settings.php:271
+#: inc/admin-page-settings.php:304
+msgid "L'inscription a échoué, il y a un problème avec le plug-in ou le serveur SafeGuard Media. Veuillez contacter un administrateur si le problème persiste."
+msgstr ""
+
+#: inc/admin-page-settings.php:250
+msgid "Veuillez saisir une clé API"
+msgstr ""
+
+#: inc/admin-page-settings.php:278
+msgid "Clé API non valide"
+msgstr ""
+
+#: inc/admin-page-settings.php:333
+msgid "Settings successfully saved."
+msgstr ""
+
+#: inc/admin-page-settings.php:387
+msgid "Paramètres par défaut"
+msgstr ""
+
+#: inc/admin-page-settings.php:390
+msgid "Safeguard Media - Guide d'Installation"
+msgstr ""
+
+#: inc/admin-page-settings.php:391
+msgid "Vidéo d'Utilisation"
+msgstr ""
+
+#: inc/admin-page-settings.php:392
+msgid "PDF d'Instructions"
+msgstr ""
+
+#: inc/admin-page-settings.php:404
+msgid "Enregistrer un compte de démonstration"
+msgstr ""
+
+#: inc/admin-page-settings.php:410 inc/admin-page-settings.php:479
+#: inc/admin-page-settings.php:518
+msgid "Clé API SafeGuard"
+msgstr ""
+
+#: inc/admin-page-settings.php:411
+msgid "Action"
+msgstr ""
+
+#: inc/admin-page-settings.php:412
+msgid "Enregistrer un compte de démonstration"
+msgstr ""
+
+#: inc/admin-page-settings.php:416
+msgid "Votre prénom"
+msgstr ""
+
+#: inc/admin-page-settings.php:417
+msgid "Prénom"
+msgstr ""
+
+#: inc/admin-page-settings.php:425
+msgid "Votre nom de famille"
+msgstr ""
+
+#: inc/admin-page-settings.php:426
+msgid "Nom de famille"
+msgstr ""
+
+#: inc/admin-page-settings.php:433
+msgid "Votre adresse e-mail"
+msgstr ""
+
+#: inc/admin-page-settings.php:434
+msgid "E-mail"
+msgstr ""
+
+#: inc/admin-page-settings.php:441
+msgid "Le nom de votre entreprise"
+msgstr ""
+
+#: inc/admin-page-settings.php:442
+msgid "Entreprise"
+msgstr ""
+
+#: inc/admin-page-settings.php:449
+msgid "Votre nom de domaine, c'est-à-dire : l'URL du site Web"
+msgstr ""
+
+#: inc/admin-page-settings.php:450 inc/admin-page-settings.php:508
+#: inc/admin-page-settings.php:509
+msgid "Domaine"
+msgstr ""
+
+#: inc/admin-page-settings.php:475 inc/admin-page-settings.php:504
+msgid "Paramètres par défaut appliqués à tous les médias:"
+msgstr ""
+
+#: inc/admin-page-settings.php:480 inc/admin-page-settings.php:519
+msgid "Clé API SafeGuard:"
+msgstr ""
+
+#: inc/admin-page-settings.php:488 inc/admin-page-settings.php:777
+msgid "Enregistrer les paramètres"
+msgstr ""
+
+#: inc/admin-page-settings.php:526
+msgid "Définissez le mode à utiliser. Utilisez Actif si vous avez un compte SafeGuard Media. Sinon, définissez le mode Débogage."
+msgstr ""
+
+#: inc/admin-page-settings.php:527
+msgid "Mode"
+msgstr ""
+
+#: inc/admin-page-settings.php:530
+msgid "Actif"
+msgstr ""
+
+#: inc/admin-page-settings.php:531
+msgid "Mode de débogage"
+msgstr ""
+
+#: inc/admin-page-settings.php:541
+msgid "Définissez la largeur de la visionneuse multimédia."
+msgstr ""
+
+#: inc/admin-page-settings.php:542
+msgid "Largeur - en pixels:"
+msgstr ""
+
+#: inc/admin-page-settings.php:549
+msgid "Définissez la hauteur de la visionneuse multimédia."
+msgstr ""
+
+#: inc/admin-page-settings.php:550
+msgid "Hauteur - en pixels:"
+msgstr ""
+
+#: inc/admin-page-settings.php:588
+msgid "Versions d'ArtisBrowser à autoriser"
+msgstr ""
+
+#: inc/admin-page-settings.php:592
+msgid "Pour autoriser ou non l'accès aux ordinateurs Windows."
+msgstr ""
+
+#: inc/admin-page-settings.php:593
+msgid "Autoriser Windows:"
+msgstr ""
+
+#: inc/admin-page-settings.php:599 inc/admin-page-settings.php:609
+#: inc/admin-page-settings.php:620 inc/admin-page-settings.php:631
+msgid "Version minimale"
+msgstr ""
+
+#: inc/admin-page-settings.php:603
+msgid "Pour autoriser ou non l'accès aux ordinateurs Mac OSX."
+msgstr ""
+
+#: inc/admin-page-settings.php:604
+msgid "Autoriser Mac OSX:"
+msgstr ""
+
+#: inc/admin-page-settings.php:613
+msgid "Pour autoriser ou non l'accès aux appareils Android."
+msgstr ""
+
+#: inc/admin-page-settings.php:614
+msgid "Autoriser Android:"
+msgstr ""
+
+#: inc/admin-page-settings.php:624
+msgid "Autoriser l'accès aux appareils iOS (iPad/iPhone) ou non."
+msgstr ""
+
+#: inc/admin-page-settings.php:625
+msgid "Autoriser iOS:"
+msgstr ""
+
+#: inc/admin-page-settings.php:639
+msgid "Autoriser ou non l'accès aux appareils distants/virtuels."
+msgstr ""
+
+#: inc/admin-page-settings.php:640
+msgid "Autoriser Remote:"
+msgstr ""
+
+#: inc/admin-page-settings.php:643
+msgid "Oui"
+msgstr ""
+
+#: inc/admin-page-settings.php:644
+msgid "Non"
+msgstr ""
+
+#: inc/admin-page-settings.php:650
+msgid "Version minimale d'ArtisBrowser requise."
+msgstr ""
+
+#: inc/admin-page-settings.php:651
+msgid "Version minimale par défaut:"
+msgstr ""
+
+#: inc/admin-page-settings.php:658
+msgid "Paramètres du Filigrane"
+msgstr ""
+
+#: inc/admin-page-settings.php:663
+msgid "Pour afficher ou non un filigrane."
+msgstr ""
+
+#: inc/admin-page-settings.php:664
+msgid "Filigrane activé/désactivé :"
+msgstr ""
+
+#: inc/admin-page-settings.php:672
+msgid "Informations pour le message du filigrane : ID utilisateur actuel, nom, e-mail, date."
+msgstr ""
+
+#: inc/admin-page-settings.php:673
+msgid "Texte du filigrane:"
+msgstr ""
+
+#: inc/admin-page-settings.php:683
+msgid "Code CSS pour la couleur du texte du filigrane."
+msgstr ""
+
+#: inc/admin-page-settings.php:684
+msgid "Couleur du texte :"
+msgstr ""
+
+#: inc/admin-page-settings.php:687 inc/admin-page-settings.php:706
+msgid "Gris"
+msgstr ""
+
+#: inc/admin-page-settings.php:688 inc/admin-page-settings.php:707
+msgid "Blanc"
+msgstr ""
+
+#: inc/admin-page-settings.php:689 inc/admin-page-settings.php:708
+msgid "Noir"
+msgstr ""
+
+#: inc/admin-page-settings.php:690 inc/admin-page-settings.php:709
+msgid "Rouge"
+msgstr ""
+
+#: inc/admin-page-settings.php:691 inc/admin-page-settings.php:710
+msgid "Jaune"
+msgstr ""
+
+#: inc/admin-page-settings.php:692 inc/admin-page-settings.php:712
+msgid "Vert"
+msgstr ""
+
+#: inc/admin-page-settings.php:693 inc/admin-page-settings.php:711
+msgid "Bleu"
+msgstr ""
+
+#: inc/admin-page-settings.php:700
+msgid "Code CSS pour la couleur de l'ombre du filigrane."
+msgstr ""
+
+#: inc/admin-page-settings.php:701
+msgid "Couleur de l'ombre :"
+msgstr ""
+
+#: inc/admin-page-settings.php:705
+msgid "Transparence:"
+msgstr ""
+
+#: inc/admin-page-settings.php:719
+msgid "Position du filigrane."
+msgstr ""
+
+#: inc/admin-page-settings.php:720
+msgid "Position:"
+msgstr ""
+
+#: inc/admin-page-settings.php:723
+msgid "En haut à gauche"
+msgstr ""
+
+#: inc/admin-page-settings.php:724
+msgid "En bas à gauche"
+msgstr ""
+
+#: inc/admin-page-settings.php:725
+msgid "En haut à droite"
+msgstr ""
+
+#: inc/admin-page-settings.php:726
+msgid "En bas à droite"
+msgstr ""
+
+#: inc/admin-page-settings.php:727
+msgid "Centre"
+msgstr ""
+
+#: inc/admin-page-settings.php:728
+msgid "Aléatoire"
+msgstr ""
+
+#: inc/admin-page-settings.php:729
+msgid "Rotation"
+msgstr ""
+
+#: inc/admin-page-settings.php:730
+msgid "Diagonale"
+msgstr ""
+
+#: inc/admin-page-settings.php:737
+msgid "Taille de police du filigrane."
+msgstr ""
+
+#: inc/admin-page-settings.php:738
+msgid "Taille de police :"
+msgstr ""
+
+#: inc/admin-page-settings.php:741
+msgid "(en pixel)"
+msgstr ""
+
+#: inc/admin-page-settings.php:742
+msgid "10"
+msgstr ""
+
+#: inc/admin-page-settings.php:743
+msgid "20"
+msgstr ""
+
+#: inc/admin-page-settings.php:744
+msgid "30"
+msgstr ""
+
+#: inc/admin-page-settings.php:745
+msgid "40"
+msgstr ""
+
+#: inc/admin-page-settings.php:746
+msgid "50"
+msgstr ""
+
+#: inc/admin-page-settings.php:747
+msgid "60"
+msgstr ""
+
+#: inc/admin-page-settings.php:748
+msgid "70"
+msgstr ""
+
+#: inc/admin-page-settings.php:749
+msgid "80"
+msgstr ""
+
+#: inc/admin-page-settings.php:750
+msgid "90"
+msgstr ""
+
+#: inc/admin-page-settings.php:751
+msgid "100"
+msgstr ""
+
+#: inc/admin-page-settings.php:757
+msgid "CSS code for opacity of watermark."
+msgstr ""
+
+#: inc/admin-page-settings.php:758
+msgid "Opacity:"
+msgstr ""
+
+#: inc/admin-page-settings.php:761
+msgid "100%"
+msgstr ""
+
+#: inc/admin-page-settings.php:762
+msgid "90%"
+msgstr ""
+
+#: inc/admin-page-settings.php:763
+msgid "80%"
+msgstr ""
+
+#: inc/admin-page-settings.php:764
+msgid "70%"
+msgstr ""
+
+#: inc/admin-page-settings.php:765
+msgid "60%"
+msgstr ""
+
+#: inc/admin-page-settings.php:766
+msgid "50%"
+msgstr ""
+
+#: inc/admin-page-settings.php:767
+msgid "40%"
+msgstr ""
+
+#: inc/admin-page-settings.php:768
+msgid "30%"
+msgstr ""
+
+#: inc/admin-page-settings.php:769
+msgid "20%"
+msgstr ""
+
+#: inc/admin-page-settings.php:770
+msgid "10%"
+msgstr ""
+
+#: inc/ajax-server.php:40
+msgid "Invalid file."
+msgstr ""
+
+#: inc/ajax-server.php:76 inc/function-common.php:151
+msgid "Error"
+msgstr ""
+
+#: inc/function-common.php:135
+msgid "There is no error, the file uploaded with success"
+msgstr ""
+
+#: inc/function-common.php:136
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: inc/function-common.php:137
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: inc/function-common.php:138
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: inc/function-common.php:139
+msgid "No file was uploaded"
+msgstr ""
+
+#: inc/function-common.php:140
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: inc/function-common.php:141
+msgid "Upload directory is not writable"
+msgstr ""
+
+#: inc/function-common.php:142
+msgid "User not logged in"
+msgstr ""
+
+#: inc/function-common.php:146
+msgid "File Uploaded. You must save \"File Details\" to insert post"
+msgstr ""
+
+#: inc/function-common.php:149
+msgid "Unknown error"
+msgstr ""
+
+#: inc/function-common.php:174
+msgid "Media Settings for Shortcode"
+msgstr ""
+
+#: inc/function-common.php:240
+msgid "File Options Are Saved"
+msgstr ""
+
+#: inc/template-media-upload.php:47
+msgid "Add New"
+msgstr ""
+
+#: inc/template-media-upload.php:51
+msgid "Existing Files"
+msgstr ""
+
+#: inc/template-media-upload.php:58
+msgid "Add New Media"
+msgstr ""
+
+#: inc/template-media-upload.php:69
+msgid "Select Files"
+msgstr ""
+
+#: inc/template-media-upload.php:95
+msgid "You can choose file options after file is uploaded."
+msgstr ""
+
+#: inc/template-media-upload.php:96
+msgid "If you use same name with uploaded media, it will be  overwritten."
+msgstr ""
+
+#: inc/template-media-upload.php:109
+msgid "Uploaded Files"
+msgstr ""
+
+#: inc/template-media-upload.php:113 inc/template-media-upload.php:124
+msgid "File"
+msgstr ""
+
+#: inc/template-media-upload.php:114 inc/template-media-upload.php:125
+msgid "Date"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:10
+#: inc/elementor/widget-safeguardmedia.php:32
+#: inc/elementor/widget-safeguardmedia.php:54
+#: inc/elementor/widget-safeguardmedia.php:68
+msgid "Safeguard Media"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:56
+msgid "Name:"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:57
+msgid "Width:"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:58
+msgid "Height:"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:59
+msgid "Remote:"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:76
+msgid "File selection"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:77
+msgid "S-Media"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:86
+#: inc/elementor/widget-safeguardmedia.php:88
+msgid "File ID"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:96
+msgid "Width"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:106
+msgid "Height"
+msgstr ""
+
+#: inc/elementor/widget-safeguardmedia.php:116
+msgid "Allow remote"
+msgstr ""

@@ -1,0 +1,69 @@
+.widefat {
+	border-spacing: 0;
+	width: 100%;
+	clear: both;
+	margin: 0;
+}
+
+.widefat td,.widefat th{
+    padding:8px 10px
+}
+.widefat thead td,.widefat thead th{
+    border-bottom:1px solid #c3c4c7
+}
+.widefat tfoot td,.widefat tfoot th{
+    border-top:1px solid #c3c4c7;
+    border-bottom:none
+}
+.widefat .no-items td{
+    border-bottom-width:0
+}
+.widefat td{
+    vertical-align:top
+}
+.widefat td,.widefat td ol,.widefat td p,.widefat td ul{
+    font-size:13px;
+    line-height:1.5em
+}
+.widefat tfoot td,.widefat th,.widefat thead td{
+    text-align:left;
+    line-height:1.3em;
+    font-size:14px
+}
+.widefat tfoot td input,.widefat th input,.widefat thead td input{
+    margin:0 0 0 8px;
+    padding:0;
+    vertical-align:text-top
+}
+
+table.wp-list-table {
+	border: 1px solid #c3c4c7;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+#wpsm-tabs-1 input[type="button"], #wpsm-tabs-1 .submit button {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 10px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+
+    color: #2271b1;
+    border-color: #2271b1;
+    background: #f6f7f7;
+    vertical-align: top;
+}
+#wpsm-tabs-1 input.mfu-plugin-uploader-button[type="button"] {
+    margin: 10px 0;
+}
+#wpsafeguard_message > div {
+    margin: 10px 0;
+}
